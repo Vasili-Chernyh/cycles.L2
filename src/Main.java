@@ -92,6 +92,7 @@ public class Main {
             friday = friday + 7;
         }
         while (friday <= 31);
+
     }
     public static void task8 () {
         System.out.println("Задача 8");
